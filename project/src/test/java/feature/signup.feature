@@ -19,4 +19,4 @@ Feature: Validate the signup functionality
 
     Examples: 
       | name | lastname | email             | password   |
-      | John | Doe      | john.do012se@tst.com | pass12345@ |
+      | John | Doe      | john.do013se@tst.com | pass12345@ |
